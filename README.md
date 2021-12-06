@@ -1,4 +1,4 @@
-# @tarojs/plugin-cli-public-path
+# @wanxl/plugin-cli-public-path
 
 > Taro 命令修改publicPath插件
 
