@@ -1,0 +1,25 @@
+{
+  "name": "@wanxl/plugin-cli-public-path",
+  "version": "1.0.0",
+  "description": "命令行修改taro 编译H5时的publicPath",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clean && npm run prod",
+    "dev": "tsc -w",
+    "prod": "tsc",
+    "clean": "rimraf dist"
+  },
+  "files": [
+    "src",
+    "dist",
+    "index.js",
+    "package.json"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@tarojs/service": "^3.3.16",
+    "typescript": "^4.5.2"
+  }
+}
