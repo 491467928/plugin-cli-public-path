@@ -15,9 +15,13 @@
     "index.js",
     "package.json"
   ],
-  "keywords": [],
-  "author": "",
+  "keywords": ["Taro","publicPath","plugin"],
+  "author": "wanxl",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/491467928/plugin-cli-public-path/issues"
+  },
+  "homepage": "https://github.com/491467928/plugin-cli-public-path#readme",
   "devDependencies": {
     "@tarojs/service": "^3.3.16",
     "typescript": "^4.5.2"
