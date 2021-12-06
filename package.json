@@ -1,6 +1,6 @@
 {
   "name": "@wanxl/plugin-cli-public-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "命令行修改taro 编译H5时的publicPath",
   "main": "index.js",
   "scripts": {
